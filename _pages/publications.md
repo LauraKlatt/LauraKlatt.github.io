@@ -23,13 +23,13 @@ Klatt, L. I., Getzmann, S., Schneider, D. (2020). Attentional Modulations of Alp
 
 Begau, A., Klatt, L. I., Wascher, E., Schneider, D., Getzmann, S. (2021). Do congruent lip movements facilitate speech processing in a dynamic audiovisual multi-talker scenario? An ERP study with older and younger adults.
 
-[![button](/images/bookmark.png)](https://www.biorxiv.org/content/10.1101/2020.11.06.370841v2)         [![button](/images/pdf_icon.png)](/files/Begau_et_a_2021_bioRxiv.pdf)
+[![button](/images/bookmark.png)](https://www.biorxiv.org/content/10.1101/2020.11.06.370841v2)         [![button](/images/pdf_icon.png)](/files/Begau_et_al_2021_bioRxiv.pdf)
 
 ### Target Enhancement or Distractor Suppression? Functionally Distinct Alpha Oscillations form the Basis of Attention.
 
 Schneider, D., Herbst, S., Klatt, L. I., Woestmann, M. (2021). Target Enhancement or Distractor Suppression? Functionally Distinct Alpha Oscillations form the Basis of Attention. European Journal of Neuroscience, 10.1111/ejn.15309. Advance online publication.
 
-[![button](/images/bookmark.png)](https://pubmed.ncbi.nlm.nih.gov/33973310/)         [![button](/images/pdf_icon.png)](/files/Schneider_et_a_2021_EJN.pdf)
+[![button](/images/bookmark.png)](https://pubmed.ncbi.nlm.nih.gov/33973310/)         [![button](/images/pdf_icon.png)](/files/Schneider_et_al_2021_EJN.pdf)
 
 
 ## 2020
