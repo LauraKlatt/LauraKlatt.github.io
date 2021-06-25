@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Please find my current CV [here](/files/CV_Klatt_02_2021.pdf)
+Please find my current CV [here](/files/CV_Klatt.pdf)
