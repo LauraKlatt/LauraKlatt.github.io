@@ -5,7 +5,7 @@ title: "Science communication"
 
 ## KlarText Preis
 
-Diesen Artikel habe ich 2020 als Beitrag für den KlarText Preis(https://klartext-preis.de/) der Klaus-Tschira Stiftung verfasst. 
+Diesen Artikel habe ich 2020 als Beitrag für den [KlarText Preis](https://klartext-preis.de/) der Klaus Tschira Stiftung verfasst. 
 
 ### Hören, was wir hören wollen
 
