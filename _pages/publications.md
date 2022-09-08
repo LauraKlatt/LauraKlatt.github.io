@@ -60,25 +60,21 @@ Klatt, L. I., Schneider, D., Schubert, A. L., Hanenberg, C., Lewald, J., Wascher
 
 ## 2018
 
-### The contribution of selective spatial attention to sound detection and sound localization: Evidence from event-related potentials and lateralized alpha oscillations
 
 Klatt L I, Getzmann S, Wascher E, Schneider D (2018). The contribution of selective spatial attention to sound detection and sound localization: Evidence from event-related potentials and lateralized alpha oscillations. *Biological Psychology*, 138, 133-145.DOI: 10.1016/j.biopsycho.2018.08.019
 
 [![button](/images/bookmark.png)](https://pubmed.ncbi.nlm.nih.gov/30165081/)         [![button](/images/pdf_icon.png)](/files/Klatt_et_al_BioPsy_2018.pdf)
 
-### Searching for auditory targets in external space and in working memory: Electrophysiological mechanisms underlying perceptual and retroactive spatial attention
 
 Klatt L I, Getzmann S, Wascher E, Schneider D (2018). Searching for auditory targets in external space and in working memory: Electrophysiological mechanisms underlying perceptual and retroactive spatial attention. *Behavioral Brain Research*, 353, 98-107.DOI: 10.1016/j.bbr.2018.06.022
 
 [![button](/images/bookmark.png)](https://pubmed.ncbi.nlm.nih.gov/29958962/)         [![button](/images/pdf_icon.png)](/files/Klatt_et_al_BBR_2018.pdf)
 
-### Retroactive Attentional Shifts Predict Performance in a Working Memory Task: Evidence by Lateralized EEG Patterns
 
 Goeddertz, A, Klatt L I, Mertes C, Schneider D (2018). Retroactive Attentional Shifts Predict Performance in a Working Memory Task: Evidence by Lateralized EEG Patterns. *Frontiers in Human Neuroscience*, 12, 428. DOI: 10.3389/fnhum.2018.00428
 
 [![button](/images/bookmark.png)](https://pubmed.ncbi.nlm.nih.gov/30405380/)         [![button](/images/pdf_icon.png)](/files/Goeddertz_et_al_Frontiers_2018.pdf)
 
-### Psychological flexibility mediates the effect of an online-based acceptance and commitment therapy for chronic pain: An investigation of change processes
 
 Lin J, Klatt L I, McCracken L, Baumeister H (2018). Psychological flexibility mediates the effect of an online-based acceptance and commitment therapy for chronic pain: An investigation of change processes. *Pain*, 159, 663-672. DOI: 10.1097/j.pain.0000000000001134
 
