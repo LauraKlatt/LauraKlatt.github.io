@@ -7,11 +7,15 @@ author_profile: true
 
 ## Preprints
 
-*Coming soon*: Klatt, L.I., Begau, A. Schneider, D., Getzmann, S. (in prep). Cross-modal interactions in behavior, ERPs, and oscillations at the audiovisual cocktail-party. 
+Klatt, L.I., Begau, A. Schneider, D., Getzmann, S. (2022). Cross-modal interactions in behavior, ERPs, and oscillations at the audiovisual cocktail-party. DOI: 10.1101/2022.09.30.510236
+
+[![button](/images/bookmark.png)](https://www.biorxiv.org/content/10.1101/2022.09.30.510236v1)         [![button](/images/pdf_icon.png)](/files/Klatt_et_al_2022_preprint.pdf)
 
 ## Peer-reviewed publications
 
 ## 2022
+
+Begau, A., Arnau, S., Klatt, L. I., Wascher, E., Getzmann, S. (in press). Using visual speech at the cocktail-party: CNV evidence for early speech extraction in younger and older adults. *Hearing Research*.
 
 Klatt, L. I., Getzmann, S., & Schneider, D. (2022). Attentional modulations of alpha power are sensitive to the task-relevance of auditory spatial information. *Cortex*, 153, 1–20. DOI: 10.1016/j.cortex.2022.03.022
 
