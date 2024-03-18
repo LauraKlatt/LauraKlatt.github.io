@@ -7,8 +7,8 @@ I enjoy doing outreach work and science communication. Below, you find a few exa
 
 ### Science Slam im Projektor Dortmund am 27/09/2023: *Türsteher im Kopf, du kommst hier nicht rein*
 
-[![button](/images/icon_link.png)](https://ocfromthefuture.ifado.de:8081/owncloud/index.php/s/DfBWzPGznbqJwLC) - Folien
-[![button](/images/icon_link.png)](https://www.ifado.de/de/newsroom/news/wissenschaft-mit-humor-science-slam-2023) - Blogartikel
+[![button](/images/icon_link.png)](https://ocfromthefuture.ifado.de:8081/owncloud/index.php/s/DfBWzPGznbqJwLC) - Folien  
+[![button](/images/icon_link.png)](https://www.ifado.de/de/newsroom/news/wissenschaft-mit-humor-science-slam-2023) - Blogartikel  
 
 ### Bewerbung um den KlarText Preis für Wissenschaftskommunikation 2021
 
