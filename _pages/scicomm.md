@@ -19,7 +19,7 @@ Meinen ersten Science Slam Auftritt könnt ihr [hier](https://www.youtube.com/wa
 ### Schülerexkursion am IfADo
 
 Wir durften bereits mehreren Schulklassen am IfADo einen Einblick in die (EEG-)Forschung geben. 
-[Hier](https://ocfromthefuture.ifado.de:8081/owncloud/index.php/s/qNBRmiahFcC09am) findet ihr beispielhafte Folien von meinem Einführungsvortrag: Wie geht EEG-Forschung?
+[Hier](https://ocfromthefuture.ifado.de:8081/owncloud/index.php/s/qNBRmiahFcC09am) findet ihr beispielhafte Folien von meinem Einführungsvortrag *Wie geht EEG-Forschung?*
 
 
 ### Bewerbung um den KlarText Preis für Wissenschaftskommunikation 2021
