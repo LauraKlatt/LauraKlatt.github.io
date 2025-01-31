@@ -5,12 +5,35 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Preprints
+
+Klatt, L.I., & Hucke, C. (2024, March 27). Behavior and alpha-band oscillations reveal cross-modal interactions between chemosensory and auditory processing. bioRxiv. DOI: 10.1101/2024.03.27.586970
+[![button](/images/bookmark.png)](https://doi.org/10.1101/2024.03.27.586970)         [![button](/images/pdf_icon.png)](/files/Klatt&Hucke_bioRxiv.pdf)
+
+Sabo, M., Klatt, L. I., & Schneider, D. (2024, August 15). Working memory processing boosts the neural representation of long-term memories. bioRxiv. DOI: 10.1101/2024.08.15.608072
+[![button](/images/bookmark.png)](https://doi.org/10.1101/2024.08.15.608072)         [![button](/images/pdf_icon.png)](/files/Sabo_et_al_2024_bioRxiv.pdf)
+
 
 ## Peer-reviewed publications
 
+## 2025
+
+Arslan, C., Schneider, D., Getzmann, S., Wascher, E., & Klatt, L. I. (2025). The Interplay between Multisensory Processing and Attention in Working Memory: Behavioral and Neural Indices of Audio-Visual Object Storage. **Psychophysiology**. 
+[![button](/images/bookmark.png)](https://doi.org/10.1101/2024.03.26.586805)         [![button](/images/pdf_icon.png)]
+
+## 2024
+
+Adam, K. C. S., Klatt, L. I., Miller, J. A., Rösner, M., Fukuda, K., & Kiyonaga, A. (2025). Beyond Routine Maintenance: Current Trends in Working Memory Research. **Journal of cognitive neuroscience**, 1–17. Advance online publication. DOI: 10.1162/jocn_a_02298
+
+[![button](/images/bookmark.png)](https://doi.org/10.1162/jocn_a_02298)         [![button](/images/pdf_icon.png)](/files/JOCN_a_02298-Kiyonaga_Proof1.pdf)
+
+Liegel, N., Schneider, D., Wascher, E., Klatt, L. I., & Arnau, S. (2024). The effect of performance contingent reward prospects flexibly adapts to more versus less specific task goals. **Psychophysiology**, 61(12), e14678. DOI: /10.1111/psyp.14678
+[![button](/images/bookmark.png)](https://doi.org/10.1111/psyp.14678)         [![button](/images/pdf_icon.png)](/files/Psychophysiology _2024_Liegel.pdf)
+
+
 ## 2023
 
-Klatt, L.I., Begau, A. Schneider, D., Getzmann, S. (2022). Cross-modal interactions in behavior, ERPs, and oscillations at the audiovisual cocktail-party. **NeuroImage*, 271, 120022, DOI: 10.1101/2022.09.30.510236
+Klatt, L.I., Begau, A. Schneider, D., Getzmann, S. (2023). Cross-modal interactions in behavior, ERPs, and oscillations at the audiovisual cocktail-party. **NeuroImage*, 271, 120022, DOI: 10.1101/2022.09.30.510236
 
 [![button](/images/bookmark.png)](https://doi.org/10.1016/j.neuroimage.2023.120022)         [![button](/images/pdf_icon.png)](/files/klatt_et_al_2023.pdf)
 
