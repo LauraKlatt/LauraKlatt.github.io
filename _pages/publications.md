@@ -7,10 +7,10 @@ author_profile: true
 
 ## Preprints
 
-Klatt, L.I., & Hucke, C. (2024, March 27). Behavior and alpha-band oscillations reveal cross-modal interactions between chemosensory and auditory processing. bioRxiv. DOI: 10.1101/2024.03.27.586970
+Klatt, L.I., & Hucke, C. (2024, March 27). Behavior and alpha-band oscillations reveal cross-modal interactions between chemosensory and auditory processing. *bioRxiv*. DOI: 10.1101/2024.03.27.586970
 [![button](/images/bookmark.png)](https://doi.org/10.1101/2024.03.27.586970)         [![button](/images/pdf_icon.png)](/files/Klatt_Hucke_bioRxiv.pdf)
 
-Sabo, M., Klatt, L. I., & Schneider, D. (2024, August 15). Working memory processing boosts the neural representation of long-term memories. bioRxiv. DOI: 10.1101/2024.08.15.608072
+Sabo, M., Klatt, L. I., & Schneider, D. (2024, August 15). Working memory processing boosts the neural representation of long-term memories. *bioRxiv*. DOI: 10.1101/2024.08.15.608072
 [![button](/images/bookmark.png)](https://doi.org/10.1101/2024.08.15.608072)         [![button](/images/pdf_icon.png)](/files/Sabo_et_al_2024_bioRxiv.pdf)
 
 
@@ -18,7 +18,7 @@ Sabo, M., Klatt, L. I., & Schneider, D. (2024, August 15). Working memory proces
 
 ## 2025
 
-Arslan, C., Schneider, D., Getzmann, S., Wascher, E., & Klatt, L. I. (2025). The Interplay between Multisensory Processing and Attention in Working Memory: Behavioral and Neural Indices of Audio-Visual Object Storage. **Psychophysiology**. 
+Arslan, C., Schneider, D., Getzmann, S., Wascher, E., & Klatt, L. I. (2025). The Interplay between Multisensory Processing and Attention in Working Memory: Behavioral and Neural Indices of Audio-Visual Object Storage. *Psychophysiology*. 
 [![button](/images/bookmark.png)](https://doi.org/10.1101/2024.03.26.586805)         [![button](/images/pdf_icon.png)]
 
 ## 2024
