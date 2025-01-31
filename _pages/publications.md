@@ -8,7 +8,7 @@ author_profile: true
 ## Preprints
 
 Klatt, L.I., & Hucke, C. (2024, March 27). Behavior and alpha-band oscillations reveal cross-modal interactions between chemosensory and auditory processing. bioRxiv. DOI: 10.1101/2024.03.27.586970
-[![button](/images/bookmark.png)](https://doi.org/10.1101/2024.03.27.586970)         [![button](/images/pdf_icon.png)](/files/Klatt&Hucke_bioRxiv.pdf)
+[![button](/images/bookmark.png)](https://doi.org/10.1101/2024.03.27.586970)         [![button](/images/pdf_icon.png)](/files/Klatt_Hucke_bioRxiv.pdf)
 
 Sabo, M., Klatt, L. I., & Schneider, D. (2024, August 15). Working memory processing boosts the neural representation of long-term memories. bioRxiv. DOI: 10.1101/2024.08.15.608072
 [![button](/images/bookmark.png)](https://doi.org/10.1101/2024.08.15.608072)         [![button](/images/pdf_icon.png)](/files/Sabo_et_al_2024_bioRxiv.pdf)
@@ -28,7 +28,7 @@ Adam, K. C. S., Klatt, L. I., Miller, J. A., Rösner, M., Fukuda, K., & Kiyonaga
 [![button](/images/bookmark.png)](https://doi.org/10.1162/jocn_a_02298)         [![button](/images/pdf_icon.png)](/files/JOCN_a_02298-Kiyonaga_Proof1.pdf)
 
 Liegel, N., Schneider, D., Wascher, E., Klatt, L. I., & Arnau, S. (2024). The effect of performance contingent reward prospects flexibly adapts to more versus less specific task goals. **Psychophysiology**, 61(12), e14678. DOI: /10.1111/psyp.14678
-[![button](/images/bookmark.png)](https://doi.org/10.1111/psyp.14678)         [![button](/images/pdf_icon.png)](/files/Psychophysiology _2024_Liegel.pdf)
+[![button](/images/bookmark.png)](https://doi.org/10.1111/psyp.14678)         [![button](/images/pdf_icon.png)](/files/Psychophysiology_2024_Liegel.pdf)
 
 
 ## 2023

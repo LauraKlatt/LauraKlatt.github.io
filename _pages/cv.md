@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Please find my current CV [here](/files/CV_Dr._Laura_Isabelle_Klatt_03_24_ENG.pdf) - last updated: March 2024
+Please find my current CV [here](/files/CV_Dr._Laura_Isabelle_Klatt_03_23_ENG.pdf) - last updated: March 2024
