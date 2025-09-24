@@ -7,18 +7,25 @@ author_profile: true
 
 ## Preprints
 
-Arslan, C., Schneider, D., Getzmann, S., Wascher, E., & **Klatt, L. I.** (2025, April 24). Tracking neural representations of attended and unattended features in multisensory working memory over time. bioRxiv. https://doi.org/10.1101/2025.04.24.650418
-[![button](/images/bookmark.png)](https://doi.org/10.1101/2025.04.24.650418)         [![button](/images/pdf_icon.png)](/files/Arslan_et_al_2025_bioRxiv.pdf)
+Keitel A, Keitel C, […], **Klatt L I**, […], Palva S, Sauseng P, Kotz S A (2025, July 21). Brain rhythms in cognition – controversies and future directions. *ArXiv*. DOI: 10.48550/arXiv.2507.15639 
+[![button](/images/bookmark.png)](https://doi.org/10.48550/arXiv.2507.15639)         
 
-Sabo, M., **Klatt, L. I.**, & Schneider, D. (2024, August 15). Working memory processing boosts the neural representation of long-term memories. *bioRxiv*. DOI: 10.1101/2024.08.15.608072
-[![button](/images/bookmark.png)](https://doi.org/10.1101/2024.08.15.608072)         [![button](/images/pdf_icon.png)](/files/Sabo_et_al_2024_bioRxiv.pdf)
+Turoman N, Walter E, Motz A & **Klatt L I** (2025, June 4). Presenting features audiovisually improves working memory for bindings. PsyArXiv. DOI: 10.31234/osf.io/7j6yt_v1
+[![button](/images/bookmark.png)](https://doi.org/10.31234/osf.io/7j6yt_v1)         
 
-**Klatt, L.I.**, & Hucke, C. (2024, March 27). Behavior and alpha-band oscillations reveal cross-modal interactions between chemosensory and auditory processing. *bioRxiv*. DOI: 10.1101/2024.03.27.586970
+**Klatt, L.I.**, & Hucke, C. (2024, March 27). Cross-modal influence of odorant stimulation on sound localization revealed by EEG and diffusion modeling. *bioRxiv*. DOI: 10.1101/2024.03.27.586970
 [![button](/images/bookmark.png)](https://doi.org/10.1101/2024.03.27.586970)         [![button](/images/pdf_icon.png)](/files/Klatt_Hucke_bioRxiv.pdf)
+
+Gabdulkhakov A, Sperl M F J, Merz C, **Klatt L I**, Fraenz C, Axmacher N, Genç E (2025, July 17). Multimodal spatiotemporal dynamics of frontomedial theta and bold signal reveal functional roles in updating and suppressing aversive memory during fear extinction. *Authorea*. DOI: 10.22541/au.175274364.47542664/v1
+[![button](/images/bookmark.png)](https://www.authorea.com/users/946319/articles/1316143-multimodal-spatiotemporal-dynamics-of-frontomedial-theta-and-bold-signal-reveal-functional-roles-in-updating-and-suppressing-aversive-memory-during-fear-extinction?commit=2dd4b43c590f8869f18952f787ba067c5e6ff8a5)       
+
 
 ## Peer-reviewed publications
 
 ## 2025
+
+Arslan, C., Schneider, D., Getzmann, S., Wascher, E., & **Klatt, L. I.** (2025, April 24). Tracking neural representations of attended and unattended features in multisensory working memory over time. *BrainResearch*. DOI: 10.1016/j.brainres.2025.149817
+[![button](/images/bookmark.png)](https://doi.org/10.1016/j.brainres.2025.149817)         [![button](/images/pdf_icon.png)](/files/Arslan_et_al_2025_bioRxiv.pdf)
 
 Arslan, C., Schneider, D., Getzmann, S., Wascher, E., & **Klatt, L. I.** (2025). The Interplay between Multisensory Processing and Attention in Working Memory: Behavioral and Neural Indices of Audio-Visual Object Storage. *Psychophysiology*. 
 [![button](/images/bookmark.png)](https://doi.org/10.1101/2024.03.26.586805)         [![button](/images/pdf_icon.png)]
