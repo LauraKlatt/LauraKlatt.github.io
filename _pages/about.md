@@ -16,5 +16,5 @@ My research focuses on selective (spatial) attention, working memory, and multis
 
 I believe science should be open and transparent, ultimately increasing the credibility, trustworthiness and impact of our research. I have only just begun to dip my toes into the wonderful world of open science and am eager to implement more and more open science practices into my workflow. I am also passionate about science communication, trying to make our research more accessible to the public. 
 
-If you have any questions or comments concerning my research, please don't hesitate to drop me a note on [Twitter](https://twitter.com/LoraKlatt) or get in touch via email (klatt[at]ifado.de). 
+If you have any questions or comments concerning my research, please don't hesitate to drop me a note on [Bluesky]([https://bsky.app/profile/lauraklatt.bsky.social]) or get in touch via email (klatt[at]ifado.de). 
 
