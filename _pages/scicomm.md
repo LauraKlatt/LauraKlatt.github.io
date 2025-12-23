@@ -8,7 +8,7 @@ I enjoy doing outreach work and science communication. Below, you find a few exa
 ### NDR Synapsen Podcast: *Wellengang im Kopf*
 
 Wie verarbeitet unser Gehirn verschiedene Sinneseindrücke? Neurowissenschaftlerin Laura Klatt über kleine Bötchen auf hohen Wellen. 
-[Hier](https://www.ardaudiothek.de/episode/urn:ard:episode:777c4c4fbabb71bd/) reinhören!
+Hier reinhören:
 
 <iframe src="https://www.ardaudiothek.de/embed/episode/urn:ard:publication:777c4c4fbabb71bd/" width="640px" height="185px" frameBorder="0" scrolling="no"></iframe>
 
@@ -20,7 +20,9 @@ Wie verarbeitet unser Gehirn verschiedene Sinneseindrücke? Neurowissenschaftler
 
 ### Science Slam im Gebäude 9, Köln am 25/05/2023: *Einkaufen ohne Liste: Wie funktioniert unser Arbeitsgedächtnis*
 
-Meinen ersten Science Slam Auftritt könnt ihr [hier](https://www.youtube.com/watch?v=Atwov6O_3Vc) auf YouTube nachschauen!
+Meinen ersten Science Slam Auftritt könnt ihr hier auf YouTube nachschauen!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Atwov6O_3Vc?si=F5uV3N35KO0GxqJl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ### Schülerexkursion am IfADo
