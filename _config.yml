@@ -83,11 +83,11 @@ author:
   name             : "Laura-Isabelle Klatt"
   avatar           : "Klatt.png"
   bio              : "Postdoctoral researcher"
-  location         : "Dortmund, Germany"
+  location         : "Nijmegen, NL"
   employer         : 
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Laura-Isabelle+Klatt"
   googlescholar    : "https://scholar.google.com/citations?user=3oBSpXMAAAAJ&hl=en"
-  email            : "klatt@ifado.de"
+  email            : "laura-isabelle.klatt@donders.ru.nl"
   researchgate     : "https://www.researchgate.net/profile/Laura-Isabelle-Klatt"
   uri              :
   bitbucket        :
@@ -110,6 +110,7 @@ author:
   steam            :
   tumblr           :
   twitter          : "@LoraKlatt" #"replacethistwitterhandle"
+  bluesky          : https://bsky.app/profile/lauraklatt.bsky.social  
   vine             :
   weibo            :
   xing             :
