@@ -10,14 +10,7 @@ I enjoy doing outreach work and science communication. Below, you find a few exa
 Wie verarbeitet unser Gehirn verschiedene Sinneseindrücke? Neurowissenschaftlerin Laura Klatt über kleine Bötchen auf hohen Wellen. 
 [Hier](https://www.ardaudiothek.de/episode/urn:ard:episode:777c4c4fbabb71bd/) reinhören!
 
-<iframe
-  src="https://www.ardaudiothek.de/embed/777c4c4fbabb71bd"
-  width="100%"
-  height="150"
-  frameborder="0"
-  scrolling="no"
-  title="ARD Audiothek Player">
-</iframe>
+<iframe src="https://www.ardaudiothek.de/embed/episode/urn:ard:publication:777c4c4fbabb71bd/" width="640px" height="185px" frameBorder="0" scrolling="no"></iframe>
 
 ### Science Slam im Projektor Dortmund am 27/09/2023: *Türsteher im Kopf, du kommst hier nicht rein*
 
