@@ -5,6 +5,20 @@ title: "Science communication"
 
 I enjoy doing outreach work and science communication. Below, you find a few examples of my SciComm work, mostly in German. 
 
+### NDR Synapsen Podcast: *Wellengang im Kopf*
+
+Wie verarbeitet unser Gehirn verschiedene Sinneseindrücke? Neurowissenschaftlerin Laura Klatt über kleine Bötchen auf hohen Wellen. 
+[Hier](https://www.ardaudiothek.de/episode/urn:ard:episode:777c4c4fbabb71bd/) reinhören!
+
+<iframe
+  src="https://www.ardaudiothek.de/embed/777c4c4fbabb71bd"
+  width="100%"
+  height="150"
+  frameborder="0"
+  scrolling="no"
+  title="ARD Audiothek Player">
+</iframe>
+
 ### Science Slam im Projektor Dortmund am 27/09/2023: *Türsteher im Kopf, du kommst hier nicht rein*
 
 [![button](/images/icon_link.png)](https://ocfromthefuture.ifado.de:8081/owncloud/index.php/s/DfBWzPGznbqJwLC) - Folien   
